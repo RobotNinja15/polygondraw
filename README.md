@@ -1,6 +1,6 @@
 # Polygon Drawer
 
-I was working on a P5.js project and I had a hard time trying to use coordinates to draw 2D shapes because I could not accurately determine where I wanted the shapes to be on my canvas(1920 by 1080), so This makes it easier for anyone to visualize the 2D shapes and also what coordinates they could use for those shapes.
+I was working on a P5.js project and I had a hard time trying to use coordinates to draw 2D shapes because I could not accurately determine where I wanted the shapes to be on my canvas(1920 by 1080), so This makes it easier for anyone to visualize the 2D shapes and also what coordinates they could use for positioning those shapes.
 
 ## Features
 
