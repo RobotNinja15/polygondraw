@@ -25,7 +25,7 @@ I was working on a P5.js project and I had a hard time trying to use coordinates
 3. Navigate to the project directory:
 
    ```bash
-   cd polygondrawer
+   cd polygondraw
    ```
 
 4. Run the application:
