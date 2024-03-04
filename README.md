@@ -31,7 +31,7 @@ I was working on a P5.js project and I had a hard time trying to use coordinates
 4. Run the application:
 
    ```bash
-   python main.py
+   main.py
    ```
 
 ## How to Use
