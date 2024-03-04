@@ -19,7 +19,7 @@ I was working on a P5.js project and I had a hard time trying to use coordinates
 2. Clone this repository to your local machine:
 
    ```bash
-   https://github.com/RobotNinja15/polygondraw.git
+   git clone https://github.com/RobotNinja15/polygondraw.git
    ```
    
 3. Navigate to the project directory:
